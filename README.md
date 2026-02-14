@@ -1,4 +1,7 @@
-## Hi 👋, Tomek here
+<h1 align="center">Hi 👋, Tomek here</h1>
+
+Going to do somehting more here in the future XD
+<h6> hopefully </h6>
 
 <!--
 **totttek/totttek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
