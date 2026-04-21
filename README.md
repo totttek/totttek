@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, Tomek here</h1>
-
-Going to do somehting more here in the future XD
-<h6> hopefully </h6>
+<h1 align="center">Hi 👋, I'm Tomek</h1>
+<h3 align="center">Game QA Tester | Aspiring Technical QA | 42 Warsaw</h3>
+<p align="center">Passionate about games, programming and anything connected to CS.</p>
 
 <!--
 **totttek/totttek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
