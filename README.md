@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">Game QA Tester | Aspiring Technical QA | 42 Warsaw</h3>
+<h3 align="center">Game QA Tester | Aspiring Technical QA | 42 Warsaw Cadet</h3>
 <p align="center">Passionate about games, programming and anything connected to CS.</p>
 
 <!--
